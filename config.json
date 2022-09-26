@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "c107ab985dab"
   },
   "options": {
     "autoRead": false,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
+    "packname": "peler",
     "author": "https://zenzapi.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6285807264974"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by FARUQ OFC"
 }
